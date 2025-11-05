@@ -88,4 +88,3 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 ---
 
 *Designed & maintained by [Sanket Barhate](https://github.com/BarhateSanket)*  
-*(Optimized for dark & light GitHub themes)*
