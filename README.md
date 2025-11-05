@@ -75,15 +75,6 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 
 ---
 
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ### ✍️ Developer Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
