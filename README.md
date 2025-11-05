@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BarhateSanket/BarhateSanket/assets/banner.png" alt="Sanket Barhate - Full Stack Developer Banner" width="100%" />
+  <img src="https://github.com/BarhateSanket/BarhateSanket/banner.png" alt="Sanket Barhate - Full Stack Developer Banner" width="100%" />
 </p>
 
 <p align="center">
