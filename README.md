@@ -64,20 +64,6 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 
 ---
 
-### 🐍 Contribution Graph Snake
-<p align="center">
-  <img src="https://github.com/BarhateSanket/BarhateSanket/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 Badges
-![Followers](https://img.shields.io/github/followers/BarhateSanket?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/BarhateSanket?label=Stars&style=social)
-![Profile Views](https://visitcount.itsvg.in/api?id=BarhateSanket&label=Profile%20Views&color=6&icon=5&pretty=true)
-
----
-
 ### ☕ Support My Work
 <p align="center">
   <a href="https://buymeacoffee.com/sanketbarhate" target="_blank">
