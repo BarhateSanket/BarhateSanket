@@ -40,9 +40,11 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 | Project | Description | Tech |
 |----------|-------------|------|
 | [SYRA Voice Assistant](https://github.com/BarhateSanket/SYRA) | AI-based voice assistant built with MERN + NLP | Node.js, React, MongoDB |
+| [Bookit – Hotel Booking Web App](https://github.com/BarhateSanket/Bookit) | A modern hotel booking and management system with room availability, user login, and payment integration. | Next.js, Node.js, MongoDB, TailwindCSS |
 | [TaskMate](https://github.com/BarhateSanket/TaskMate) | Task manager web app with full CRUD features | MERN, TypeScript |
 | [Weather Forecast](https://github.com/BarhateSanket/Weather_Forcast_Using_Reactjs) | Real-time weather data using React and OpenWeather API | React.js, API |
 | [Calculator](https://github.com/BarhateSanket/Calculator) | Clean and functional calculator | HTML, CSS, JS |
+
 
 ---
 
@@ -71,6 +73,14 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
   </a>
 </p>
 
+---
+
+### 🎧 Now Playing on Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
