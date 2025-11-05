@@ -66,7 +66,7 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 
 ### ☕ Support My Work
 <p align="center">
-  <a href="https://buymeacoffee.com/sanketbarhate" target="_blank">
+  <a href="https://buymeacoffee.com/barhatesanket target="_blank">
     <img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
