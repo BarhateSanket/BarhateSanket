@@ -86,7 +86,7 @@ I love turning ideas into clean, scalable, and maintainable code that solves rea
 
 ### 🎧 Now Playing on Spotify
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true" target="_blank">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
   </a>
 </p>
