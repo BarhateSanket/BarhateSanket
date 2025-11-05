@@ -40,7 +40,7 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 | Project | Description | Tech |
 |----------|-------------|------|
 | [SYRA Voice Assistant](https://github.com/BarhateSanket/SYRA) | AI-based voice assistant built with MERN + NLP | Node.js, React, MongoDB |
-| [Bookit – Hotel Booking Web App](https://github.com/BarhateSanket/Bookit) | A modern hotel booking and management system with room availability, user login, and payment integration. | Next.js, Node.js, MongoDB, TailwindCSS |
+| [Bookit – Booking Web App](https://github.com/BarhateSanket/Bookit) | A modern hotel booking and management system with room availability, user login, and payment integration. | Next.js, Node.js, MongoDB, TailwindCSS |
 | [TaskMate](https://github.com/BarhateSanket/TaskMate) | Task manager web app with full CRUD features | MERN, TypeScript |
 | [Weather Forecast](https://github.com/BarhateSanket/Weather_Forcast_Using_Reactjs) | Real-time weather data using React and OpenWeather API | React.js, API |
 | [Calculator](https://github.com/BarhateSanket/Calculator) | Clean and functional calculator | HTML, CSS, JS |
