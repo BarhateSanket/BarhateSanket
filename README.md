@@ -57,22 +57,6 @@ I love experimenting with **AI-integrated web systems** and modern frameworks to
 
 ---
 
-### ⏱️ Weekly Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=barhatesanket&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31aps7gqqvlcj2reg2jbsabhfupa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BarhateSanket&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
